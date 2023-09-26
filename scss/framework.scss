@@ -1,0 +1,64 @@
+//Colores
+
+$blanco: white;
+$negro: black;
+$gris: grey;
+$verde-pasto: #116D6E;
+$terracota: #321E1E;
+$gris-bordo: #4E3636;
+$naranja-rojo: #CD1818;
+$gris-oscuro: #040D12;
+$azul-negro: #282A3A;
+$azul-negro-oscuro: #1e1f2c;
+$marron-claro: #C69749;
+$marron-claro-oscuro: #cf6807;
+$azul-morado: #394867;
+$beige: #E3CCAE;
+$marron-oscuro: #884A39;
+$azul-claro: #242a52;
+$negro-argb:rgba(0, 0, 0, 0.4);
+$marron-claro-claro: #ffefd3;
+$beige-claro: #e9d8c3;
+
+
+//Fonts
+
+a{
+    text-decoration: none;
+    list-style: none;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+h1{
+    font-size: 5rem;
+    margin: 20px auto;
+    text-overflow: clip;
+    font-weight:bolder;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+h4{
+    font-size: 1.85rem;
+    text-align: center;
+}
+
+h5{
+    font-size: 1.5rem;
+}
+
+h6{
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+}
+

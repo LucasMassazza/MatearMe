@@ -1,0 +1,43 @@
+footer{
+    position: relative;
+    width: 100vw;
+    height: 15%;
+    background-color: $beige;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    section{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .footer_socialmedia{
+        a{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            img{
+                margin-right: 5px;
+                width: 30px;
+                height: 30px;
+
+            }
+            p{
+                position: relative;
+                text-align: left;
+                width: 40%;
+            }
+        }
+    }
+
+    .footer_parrafos{
+        margin-right: 30%;
+        p{
+            margin-top: 5px;
+        }
+    }
+}
